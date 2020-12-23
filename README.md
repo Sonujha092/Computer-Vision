@@ -16,8 +16,8 @@
 
 **Data Source**
 
-* [Indian Dance Classification](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/)
+* [Indian Dance Classification](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-identify-dance-form/)
 
-* [Auto Tag Images Of Gala](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-identify-dance-form/)
+* [Auto Tag Images Of Gala](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/)
 
 * [Kaggle](www.kaggle.com)
