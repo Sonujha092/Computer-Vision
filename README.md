@@ -10,6 +10,8 @@
 |[House Price Prediction](https://github.com/skj092/House_Price_Prediction)| Predict the final price of each home.|
 |[Zero to GANs - Human Protein Classification](https://github.com/skj092/Human_Protein_Atlas)| Develop models capable of classifying mixed patterns of proteins in microscope images.|
 |[Plant Pathlogy](https://github.com/skj092/Plant_Pathlogy)|Classify a given plant images into different diseased category|
+|[Cassava Leaf Disease Classification ](https://github.com/skj092/LeafDiseaseClassification)| identify common diseases in  food security crop |
+
 
 
 ------------------------------------------
