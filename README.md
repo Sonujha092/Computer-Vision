@@ -3,7 +3,7 @@
 
 
 | Data | Description|
-|:-----|----------:|
+|-----|----------|
 | [Indian Dance Classification](https://github.com/skj092/Indian_Dance_Classificaiton)|Build an image tagging Deep Learning model that can classify images into eight categories of Indian classical dance.|
 |[Auto Tag Images Of Gala](https://github.com/skj092/Image_Tagging)|Classify images into multiple categories|
 |[Planet: Understanding the Amazon from Space](https://github.com/skj092/Understanding_Amazon_From_Space)|Use satellite data to track the human footprint in the Amazon rainforest|
